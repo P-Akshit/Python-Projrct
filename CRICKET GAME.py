@@ -9,8 +9,8 @@ choice = ["BATTING", "BOWLING"]
 user_runs = 0
 computer_runs = 0
 
-computer_name = "Chinu"
-print("Hi, I am Chinu.")
+computer_name = "hilo"
+print("Hi, I am hilo.")
 user_name = input("What is your name? Please tell me: ").upper()
 print("Today, you and I will play a game of cricket.")
 print("Two overs only, okay?")
