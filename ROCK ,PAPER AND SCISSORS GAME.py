@@ -2,8 +2,8 @@
 # MY NAME AKSHIT PANDEY
 import random
 
-computer_name = "Sonu"
-print("Hi, I am Sonu.")
+computer_name = "hilo"
+print("Hi, I am hilo.")
 print("What is your name? Please tell me: ")
 user_name = input()
 print("Today, you and I will play a game of Rock, Paper, Scissors.")
